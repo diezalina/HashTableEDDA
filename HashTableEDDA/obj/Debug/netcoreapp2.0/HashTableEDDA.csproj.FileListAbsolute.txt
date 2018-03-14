@@ -1,0 +1,11 @@
+C:\Users\alina\source\repos\HashTableEDDA\HashTableEDDA\bin\Debug\netcoreapp2.0\HashTableEDDA.deps.json
+C:\Users\alina\source\repos\HashTableEDDA\HashTableEDDA\bin\Debug\netcoreapp2.0\HashTableEDDA.runtimeconfig.json
+C:\Users\alina\source\repos\HashTableEDDA\HashTableEDDA\bin\Debug\netcoreapp2.0\HashTableEDDA.runtimeconfig.dev.json
+C:\Users\alina\source\repos\HashTableEDDA\HashTableEDDA\bin\Debug\netcoreapp2.0\HashTableEDDA.dll
+C:\Users\alina\source\repos\HashTableEDDA\HashTableEDDA\bin\Debug\netcoreapp2.0\HashTableEDDA.pdb
+C:\Users\alina\source\repos\HashTableEDDA\HashTableEDDA\obj\Debug\netcoreapp2.0\HashTableEDDA.csprojResolveAssemblyReference.cache
+C:\Users\alina\source\repos\HashTableEDDA\HashTableEDDA\obj\Debug\netcoreapp2.0\HashTableEDDA.csproj.CoreCompileInputs.cache
+C:\Users\alina\source\repos\HashTableEDDA\HashTableEDDA\obj\Debug\netcoreapp2.0\HashTableEDDA.AssemblyInfoInputs.cache
+C:\Users\alina\source\repos\HashTableEDDA\HashTableEDDA\obj\Debug\netcoreapp2.0\HashTableEDDA.AssemblyInfo.cs
+C:\Users\alina\source\repos\HashTableEDDA\HashTableEDDA\obj\Debug\netcoreapp2.0\HashTableEDDA.dll
+C:\Users\alina\source\repos\HashTableEDDA\HashTableEDDA\obj\Debug\netcoreapp2.0\HashTableEDDA.pdb
